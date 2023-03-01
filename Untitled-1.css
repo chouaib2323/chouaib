@@ -279,8 +279,8 @@ position: relative;
     }
     .rolexe{
 box-sizing: border-box;
-        width: 100%;
-        height: 100%;
+        width: auto;
+        height: auto;
        padding-bottom: 30px;
        padding-top: 30px;
       justify-content: center;
